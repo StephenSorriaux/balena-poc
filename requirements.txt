@@ -1,2 +1,2 @@
-pyserial
-boto3
+pyserial==3.4
+kafka-python==1.4.4
